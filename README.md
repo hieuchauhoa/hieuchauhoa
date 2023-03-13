@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/earth.svg" width="1200" />
+  <img src="svg/trungquandev.svg" width="1200" alt="" />
 </a>
 <h1 align="center">Hi 👋, I'm Hieu</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
